@@ -1,0 +1,10 @@
+package com.java.xe;
+public class Dollar implements Currency {
+
+	@Override
+	public double dollarValue() {
+		// TODO Auto-generated method stub
+		return 1.0;
+	}
+
+}
